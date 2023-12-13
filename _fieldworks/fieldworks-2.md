@@ -1,6 +1,6 @@
 ---
 title: "Gabon 2023"
-excerpt: "Investigation of weevils implication in tropical forest pollination <br/><img src='/images/500x300.png'>"
+excerpt: "PolTroN - Investigation of weevils implication in tropical forest pollination <br/><img src='/images/Poltron-01-dark.png'>"
 collection: fieldworks
 ---
 
