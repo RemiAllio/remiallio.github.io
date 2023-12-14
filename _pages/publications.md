@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## 2023
+## 2023  
 11- **Allio, R.**, Delsuc, F., Belkhir, K., Douzery, E. J., Ranwez, V., & Scornavacca, C. (2023). OrthoMaM v12: a database of curated single-copy ortholog alignments and trees to study mammalian evolutionary genomics. <i>Nucleic Acids Research</i>, gkad834. DOI: [10.1093/nar/gkad834](https://doi.org/10.1093/nar/gkad834)
 
 10- Haran, J.\*, Li, X.\*, **Allio, R.\***, Shin, S., Benoit, L., Oberprieler, R. G., Farell, B. D., Brown, S. D. J., Leschen, R. A. B., Kergoat, G. J. & McKenna, D. D. (2023). Phylogenomics illuminates the phylogeny of flower weevils (Curculioninae) and reveals ten independent origins of brood-site pollination mutualism in true weevils. <i>Proceedings of the Royal Society B</i>, 290(2008), 20230889. DOI: [10.1098/rspb.2023.0889](https://doi.org/10.1098/rspb.2023.0889)
@@ -18,19 +18,19 @@ author_profile: true
 
 6- Condamine, F. L., **Allio, R.**, Reboud, E. L., Dupuis, J. R., Toussaint, E. F., Mazet, N., Hu S.-J., Lewis D.S., Kunte K., Cotton A. M., & Sperling, F. A. (2023). A comprehensive phylogeny and revised taxonomy illuminate the origin and diversification of the global radiation of Papilio (Lepidoptera: Papilionidae). <i>Molecular Phylogenetics and Evolution</i>, 183, 107758. DOI: [10.1016/j.ympev.2023.107758](https://doi.org/10.1016/j.ympev.2023.107758)  
 
-## 2021
+## 2021  
 5- **Allio R.**, Tilak M. K., Scornavacca C., Avenant N. L., Corre E., Nabholz B., & Delsuc F. (2021). High-quality carnivore genomes from roadkill samples enable species delimitation in aardwolf and bat-eared fox. <i>eLife</i>, 10, e63167. DOI: [10.7554/eLife.63167](https://doi.org/10.7554/eLife.63167)  
 
-## 2020
+## 2020  
 4- **Allio R.**, Nabholz B., Wanke S., Chomicki G., Pérez-Escobar O. A., Cotton A. M., Clamens A.- L., Kergoat G. J., Sperling F. A. H. & Condamine F. L. (2020). Genome-wide macroevolutionary signatures of key innovations in butterflies colonizing new host plants. <i>Nature communications</i>, 12(1), 354. DOI: [10.1038/s41467-020-20507-3](https://doi.org/10.1038/s41467-020-20507-3)  
 
 3- **Allio, R.**, Schomaker‐Bastos, A., Romiguier, J., Prosdocimi, F., Nabholz, B., & Delsuc, F. (2020). MitoFinder: Efficient automated large‐scale extraction of mitogenomic data in target enrichment phylogenomics. <i>Molecular Ecology Resources</i>, 20(4), 892-905. DOI: [10.1111/1755-0998.13160](https://doi.org/10.1111/1755-0998.13160)  
 
 2- **Allio, R.**, Scornavacca, C., Nabholz, B., Clamens, A. L., Sperling, F. A., & Condamine, F. L. (2020). Whole genome shotgun phylogenomics resolves the pattern and timing of swallowtail butterfly evolution. </i>Systematic Biology</i>, 69(1), 38-60. DOI: [10.1093/sysbio/syz030](https://doi.org/10.1093/sysbio/syz030)  
 
-## 2017
+## 2017  
 1- **Allio, R.**, Donega, S., Galtier, N., & Nabholz, B. (2017). Large variation in the ratio of mitochondrial to nuclear mutation rate across animals: implications for genetic diversity and the use of mitochondrial DNA as a molecular marker. <i>Molecular biology and evolution</i>, 34(11), 2762-2772. DOI: [10.1093/molbev/msx197](https://doi.org/10.1093/molbev/msx197)  
 
-    
+
 # Preprints  
 1- **Allio, R.**, Teullet, S., Lutgen, D., Magdeleine, A., Koual, R., Tilak, M. K., de Thoisy, B., Emerling, C.A., Lefebure, T., & Delsuc, F. (2022). Comparative transcriptomics reveals divergent paths of chitinase evolution underlying dietary convergence in ant-eating mammals. Biorxiv, 2022-11. DOI: [10.1101/2022.11.29.518312](https://doi.org/10.1101/2022.11.29.518312)  

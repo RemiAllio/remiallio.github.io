@@ -1,7 +1,7 @@
 ---
 title: "South Africa 2023"
-excerpt: "Investigation of weevils host plant shifts in South Africa <br/><img src='/images/500x300.png'>"
+excerpt: "Investigation of weevils host plant shifts in South Africa <br/>"
 collection: fieldworks
+number: 1
 ---
-
-Fieldwork description with pictres :D
+Investigation of weevils host plant shifts in South Africa
