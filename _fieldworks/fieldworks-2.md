@@ -4,10 +4,14 @@ excerpt: "PolTroN - Investigation of weevils implication in tropical forest poll
 collection: fieldworks
 carousels:
   - images:
-    - image: /images/Poltron-01.png
-    - image: /images/Poltron-01-dark.png
+    - image: /images/Gabon-0.JPG
+    - image: /images/Gabon-1.JPG
+    - image: /images/Gabon-2.JPG
+    - image: /images/Gabon-3.JPG
+    - image: /images/Gabon-4.JPG
+    - image: /images/Gabon-5.JPG
+    - image: /images/Gabon-6.JPG
 number: 2
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
-{% include carousel.html height="60" unit="%" duration="3" number="1" %}
+PolTroN - Investigation of weevils implication in tropical forest pollination
+{% include carousel.html height="60" unit="%" duration="5" number="1" %}

@@ -5,12 +5,23 @@ permalink: /fieldworks/
 author_profile: true
 carousels:
   - images:
+    - image: /images/RSA-0.JPG
+    - image: /images/RSA-1.JPG
+    - image: /images/RSA-2.JPG
+    - image: /images/RSA-3.JPG
+    - image: /images/RSA-4.JPG
+    - image: /images/RSA-5.JPG
+    - image: /images/RSA-6.JPG
+    - image: /images/RSA-7.JPG
+    - image: /images/RSA-8.JPG
   - images:
-    - image: /images/Poltron-01.png
-    - image: /images/Poltron-01-dark.png  
-  - images:
-    - image: /images/weevil-shutterstock_749333035w.jpeg
-    - image: /images/Poltron-01.png
+    - image: /images/Gabon-0.JPG
+    - image: /images/Gabon-1.JPG
+    - image: /images/Gabon-2.JPG
+    - image: /images/Gabon-3.JPG
+    - image: /images/Gabon-4.JPG
+    - image: /images/Gabon-5.JPG
+    - image: /images/Gabon-6.JPG
 ---
 
 {% include base_path %}
@@ -21,5 +32,5 @@ carousels:
   {% capture project_number %}
   {{ post.number}}
   {% endcapture %}
-  {% include carousel.html height="50" unit="%" duration="2" number=project_number %}
+  {% include carousel.html height="60" unit="%" duration="3" number=project_number %}
 {% endfor %}
