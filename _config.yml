@@ -187,7 +187,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  fieldworks:
+  fieldwork:
     output: true
     permalink: /:collection/:path/
 
@@ -242,7 +242,7 @@ defaults:
   # _fieldworks
   - scope:
       path: ""
-      type: fieldworks
+      type: fieldwork
     values:
       layout: single
       author_profile: true

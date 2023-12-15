@@ -10,7 +10,20 @@
   padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
-
+  ul, li {
+    margin: 1px 0;
+  }
+  h2:after {
+    content:' ';
+    display:block;
+    border:1px solid mix(white, #000, 30%);
+  }
+  h3 {
+  text-decoration: underline;
+  }
+  h3.author__name {
+    text-decoration: none;
+  }
   @include breakpoint($x-large) {
     max-width: $x-large;
   }

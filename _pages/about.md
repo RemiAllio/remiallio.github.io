@@ -1,7 +1,8 @@
 ---
+layout: archive-notitle
 permalink: /
-title: "My research"
-excerpt: "My research"
+title: "About"
+excerpt: "Dr. Rémi Allio"
 author_profile: true
 redirect_from:
   - /about/

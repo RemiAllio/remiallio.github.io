@@ -1,10 +1,10 @@
 ---
-layout: archive
-title: "Peer-reviewed Articles"
+layout: archive-notitle
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+# Peer-reviewed Articles
 ## 2023  
 11- **Allio, R.**, Delsuc, F., Belkhir, K., Douzery, E. J., Ranwez, V., & Scornavacca, C. (2023). OrthoMaM v12: a database of curated single-copy ortholog alignments and trees to study mammalian evolutionary genomics. <i>Nucleic Acids Research</i>, gkad834. DOI: [10.1093/nar/gkad834](https://doi.org/10.1093/nar/gkad834)
 

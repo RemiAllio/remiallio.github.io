@@ -9,11 +9,15 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Fieldworks"
-    url: /fieldworks/
+  - title: "Developments"
+    url: /development/
+    
+  - title: "Fieldwork"
+    url: /fieldwork/
 
   - title: "CV"
     url: /cv/
+
 
 #  - title: "Guide"
 #    url: /markdown/
