@@ -18,9 +18,11 @@ carousels:
     - image: /images/Paysage_AFSUD_09.JPG
   - images:
     - image: /images/Gabon-0.JPG
+    - image: /images/Endaeus_Gabon_SiteWeb_31-10-23_0N4A4172.jpg
     - image: /images/Gabon-1.JPG
     - image: /images/Gabon-2.JPG
     - image: /images/Gabon-3.JPG
+    - image: /images/Endaeus_Gabon_SiteWeb_31-10-23_0N4A4199.jpg
     - image: /images/Gabon-4.JPG
     - image: /images/Gabon-5.JPG
     - image: /images/Gabon-6.JPG

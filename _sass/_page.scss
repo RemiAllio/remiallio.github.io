@@ -24,6 +24,9 @@
   h3.author__name {
     text-decoration: none;
   }
+  a.discrete-link {
+    color: $link-color2;
+  }
   @include breakpoint($x-large) {
     max-width: $x-large;
   }
