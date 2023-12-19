@@ -6,17 +6,17 @@ collection: fieldwork
 number: 1
 carousels:
   - images:
-    - image: /images/Paysage_AFSUD_01.JPG
+    - image: /images/Paysage_AFSUD_01.jpg
     - image: /images/Entiminae_AFSUD_01.jpg
     - image: /images/Entiminae_AFSUD_02.jpg
-    - image: /images/Paysage_AFSUD_02.JPG
-    - image: /images/Paysage_AFSUD_03.JPG
-    - image: /images/Paysage_AFSUD_04.JPG
-    - image: /images/Paysage_AFSUD_05.JPG
-    - image: /images/Paysage_AFSUD_06.JPG
-    - image: /images/Paysage_AFSUD_07.JPG
-    - image: /images/Paysage_AFSUD_08.JPG
-    - image: /images/Paysage_AFSUD_09.JPG
+    - image: /images/Paysage_AFSUD_02.jpg
+    - image: /images/Paysage_AFSUD_03.jpg
+    - image: /images/Paysage_AFSUD_04.jpg
+    - image: /images/Paysage_AFSUD_05.jpg
+    - image: /images/Paysage_AFSUD_06.jpg
+    - image: /images/Paysage_AFSUD_07.jpg
+    - image: /images/Paysage_AFSUD_08.jpg
+    - image: /images/Paysage_AFSUD_09.jpg
 ---
 # Investigation of weevils host plant shifts in South Africa
 
