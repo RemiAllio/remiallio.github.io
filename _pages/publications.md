@@ -6,7 +6,7 @@ author_profile: true
 ---
 # Peer-reviewed Articles
 ## 2024  
-11- **Allio, R.**, Delsuc, F., Belkhir, K., Douzery, E. J., Ranwez, V., & Scornavacca, C. (2024). OrthoMaM v12: a database of curated single-copy ortholog alignments and trees to study mammalian evolutionary genomics. Nucleic Acids Research, 52(D1), D529-D535. DOI: [10.1093/nar/gkad834](https://doi.org/10.1093/nar/gkad834){:target='_blank'}  
+11- **Allio, R.**, Delsuc, F., Belkhir, K., Douzery, E. J., Ranwez, V., & Scornavacca, C. (2024). OrthoMaM v12: a database of curated single-copy ortholog alignments and trees to study mammalian evolutionary genomics. <i>Nucleic Acids Research</i>, 52(D1), D529-D535. DOI: [10.1093/nar/gkad834](https://doi.org/10.1093/nar/gkad834){:target='_blank'}  
 
 ## 2023  
 10- Haran, J.\*, Li, X.\*, **Allio, R.\***, Shin, S., Benoit, L., Oberprieler, R. G., Farell, B. D., Brown, S. D. J., Leschen, R. A. B., Kergoat, G. J. & McKenna, D. D. (2023). Phylogenomics illuminates the phylogeny of flower weevils (Curculioninae) and reveals ten independent origins of brood-site pollination mutualism in true weevils. <i>Proceedings of the Royal Society B</i>, 290(2008), 20230889. DOI: [10.1098/rspb.2023.0889](https://doi.org/10.1098/rspb.2023.0889){:target='_blank'}  
