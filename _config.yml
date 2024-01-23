@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Dr. Rémi Allio"
-title_separator          : "|"
+title_separator          : "-"
 name                     : &name "Rémi Allio"
 description              : &description "Researcher"
 url                      : https://RemiAllio.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
