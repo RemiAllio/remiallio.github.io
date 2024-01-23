@@ -1,11 +1,8 @@
 ---
 layout: archive-notitle
-permalink: /
-excerpt: "Dr. Rémi Allio"
+title: "Research"
+permalink: /research/
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
 Hi everyone!
