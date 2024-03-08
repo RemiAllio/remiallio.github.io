@@ -14,7 +14,7 @@ read sequencing data.
 **MitoFinder** is also designed to **find** and **annotate** mitochondrial sequences in existing genomic assemblies (generated from Hifi/PacBio/Nanopore/Illumina sequencing data...)  
 
 <p align="center">
-  <a href="https://github.com/RemiAllio/MitoFinder" target="_blank" ><img src="/images/MitoFinder.png" alt="MitoFinder_logo.png" width="500"></a>
+  <a href="https://github.com/RemiAllio/MitoFinder" target="_blank" ><img src="/images/Rémi-Allio-MitoFinder.png" alt="MitoFinder_logo.png" width="500"></a>
 </p>
 
 ### [PhylteR](https://github.com/damiendevienne/phylter){:target='_blank'}{: .discrete-link}
@@ -23,7 +23,7 @@ _Comte, A., Tricou, T., Tannier, E., Joseph, J., Siberchicot, A., Penel, S., **A
 [PhylteR](https://github.com/damiendevienne/phylter){:target='_blank'}{: .discrete-link}   is a tool that allows detecting, removing and visualizing outliers in phylogenomics dataset by iteratively removing taxa from gene families (gene trees) and optimizing a score of concordance between individual matrices.
 
 <p align="center">
-  <a href="https://github.com/damiendevienne/phylter" target="_blank" ><img src="/images/Phylter.png" alt="PhylteR_logo.png" width="500"></a>
+  <a href="https://github.com/damiendevienne/phylter" target="_blank" ><img src="/images/Rémi-Allio-Phylter.png" alt="PhylteR_logo.png" width="500"></a>
 </p>
 
 ## Database
@@ -33,7 +33,7 @@ _**Allio, R.**, Delsuc, F., Belkhir, K., Douzery, E. J., Ranwez, V., & Scornavac
 [OrthoMaM](https://orthomam.mbb.cnrs.fr/){:target='_blank'}{: .discrete-link}  , a database of ORTHOlogous MAmmalian Markers describing the evolutionary dynamics of coding sequences in mammalian genomes. OrthoMaM version 12 includes 15,868 alignments of orthologous coding sequences (CDS) from the 190 complete mammalian genomes currently available.
 
 <p align="center">
-  <a href="https://orthomam.mbb.cnrs.fr/" target="_blank" ><img src="/images/omm_v11a_162tax_grey-background.png" alt="omm_v11a_162tax_ref_circular_tree_original.png" width="500"></a>
+  <a href="https://orthomam.mbb.cnrs.fr/" target="_blank" ><img src="/images/Rémi-Allio-omm_v11a_162tax_grey-background.png" alt="omm_v11a_162tax_ref_circular_tree_original.png" width="500"></a>
 </p>
 
 

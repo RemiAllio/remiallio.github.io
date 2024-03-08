@@ -5,15 +5,15 @@ excerpt: "PolTroN - Investigation of weevils implication in tropical forest poll
 collection: fieldwork
 carousels:
   - images:
-    - image: /images/Gabon-0.JPG
-    - image: /images/Endaeus_Gabon_SiteWeb_31-10-23_0N4A4172.jpg
-    - image: /images/Gabon-1.JPG
-    - image: /images/Gabon-2.JPG
-    - image: /images/Gabon-3.JPG
-    - image: /images/Endaeus_Gabon_SiteWeb_31-10-23_0N4A4199.jpg
-    - image: /images/Gabon-4.JPG
-    - image: /images/Gabon-5.JPG
-    - image: /images/Gabon-6.JPG
+    - image: /images/Rémi-Allio-Gabon-0.JPG
+    - image: /images/Rémi-Allio-Endaeus_Gabon_SiteWeb_31-10-23_0N4A4172.jpg
+    - image: /images/Rémi-Allio-Gabon-1.JPG
+    - image: /images/Rémi-Allio-Gabon-2.JPG
+    - image: /images/Rémi-Allio-Gabon-3.JPG
+    - image: /images/Rémi-Allio-Endaeus_Gabon_SiteWeb_31-10-23_0N4A4199.jpg
+    - image: /images/Rémi-Allio-Gabon-4.JPG
+    - image: /images/Rémi-Allio-Gabon-5.JPG
+    - image: /images/Rémi-Allio-Gabon-6.JPG
 number: 2
 ---
 # PolTroN - Investigation of weevils implication in tropical forest pollination

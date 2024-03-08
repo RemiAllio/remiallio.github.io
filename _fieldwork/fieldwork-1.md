@@ -6,17 +6,17 @@ collection: fieldwork
 number: 1
 carousels:
   - images:
-    - image: /images/Paysage_AFSUD_01.jpg
-    - image: /images/Entiminae_AFSUD_01.jpg
-    - image: /images/Entiminae_AFSUD_02.jpg
-    - image: /images/Paysage_AFSUD_02.jpg
-    - image: /images/Paysage_AFSUD_03.jpg
-    - image: /images/Paysage_AFSUD_04.jpg
-    - image: /images/Paysage_AFSUD_05.jpg
-    - image: /images/Paysage_AFSUD_06.jpg
-    - image: /images/Paysage_AFSUD_07.jpg
-    - image: /images/Paysage_AFSUD_08.jpg
-    - image: /images/Paysage_AFSUD_09.jpg
+    - image: /images/Rémi-Allio-Paysage_AFSUD_01.jpg
+    - image: /images/Rémi-Allio-Entiminae_AFSUD_01.jpg
+    - image: /images/Rémi-Allio-Entiminae_AFSUD_02.jpg
+    - image: /images/Rémi-Allio-Paysage_AFSUD_02.jpg
+    - image: /images/Rémi-Allio-Paysage_AFSUD_03.jpg
+    - image: /images/Rémi-Allio-Paysage_AFSUD_04.jpg
+    - image: /images/Rémi-Allio-Paysage_AFSUD_05.jpg
+    - image: /images/Rémi-Allio-Paysage_AFSUD_06.jpg
+    - image: /images/Rémi-Allio-Paysage_AFSUD_07.jpg
+    - image: /images/Rémi-Allio-Paysage_AFSUD_08.jpg
+    - image: /images/Rémi-Allio-Paysage_AFSUD_09.jpg
 ---
 # Investigation of weevils host plant shifts in South Africa
 
