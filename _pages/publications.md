@@ -34,4 +34,6 @@ author_profile: true
 
 
 # Preprints  
-1- **Allio, R.**, Teullet, S., Lutgen, D., Magdeleine, A., Koual, R., Tilak, M. K., de Thoisy, B., Emerling, C.A., Lefebure, T., & Delsuc, F. (2022). Comparative transcriptomics reveals divergent paths of chitinase evolution underlying dietary convergence in ant-eating mammals. Biorxiv, 2022-11. DOI: [10.1101/2022.11.29.518312](https://doi.org/10.1101/2022.11.29.518312){:target='_blank'}  
+2- Zelvelder, B., Kergoat, G. J., Benoit, L., Tsuchida, T., Haran, J., & **Allio, R.** (2024). The first example of extreme and independent host plant shifts mediated by parasitic plants in insects. bioRxiv, 2024-04. DOI: [10.1101/2024.04.03.587887](https://doi.org/10.1101/2024.04.03.587887){:target='_blank'}  
+
+1- **Allio, R.**, Teullet, S., Lutgen, D., Magdeleine, A., Koual, R., Tilak, M. K., de Thoisy, B., Emerling, C.A., Lefebure, T., & Delsuc, F. (2022). Comparative transcriptomics reveals divergent paths of chitinase evolution underlying dietary convergence in ant-eating mammals. bioRxiv, 2022-11. DOI: [10.1101/2022.11.29.518312](https://doi.org/10.1101/2022.11.29.518312){:target='_blank'}  
