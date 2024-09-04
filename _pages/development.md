@@ -41,4 +41,4 @@ _**Allio, R.**, Delsuc, F., Belkhir, K., Douzery, E. J., Ranwez, V., & Scornavac
 ### ONT sequencing
 _**Allio R.**, Tilak M. K., Scornavacca C., Avenant N. L., Corre E., Nabholz B., & Delsuc F. (2021). High-quality carnivore genomes from roadkill samples enable species delimitation in aardwolf and bat-eared fox. <i>eLife</i>, 10, e63167. DOI: [10.7554/eLife.63167](https://doi.org/10.7554/eLife.63167){:target='_blank'}_
 
-[This protocol](dx.doi.org/10.17504/protocols.io.beixjcfn){:target='_blank'}{: .discrete-link}   was developed to optimize DNA sequencing from mammalian roadkill tissue samples using Oxford Nanopore Technology (ONT).  
+[This protocol](https://dx.doi.org/10.17504/protocols.io.beixjcfn){:target='_blank'}{: .discrete-link}   was developed to optimize DNA sequencing from mammalian roadkill tissue samples using Oxford Nanopore Technology (ONT).  
