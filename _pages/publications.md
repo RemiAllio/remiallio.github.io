@@ -34,6 +34,10 @@ author_profile: true
 
 
 # Preprints  
+4- Battlay, P., Hendrickson, B. T., Mendez-Reneau, J. I., Santangelo, J. S., Albano, L. J., Wilson, J., Caizergues, A., [9 authors], **Allio, R.**, [35 authors] & Kooyers, N. J. (2024). Structural variants underlie parallel adaptation following global invasion. <i>bioRxiv</i>, 2024-07. DOI: [10.1101/2024.07.09.602765](https://doi.org/10.1101/2024.07.09.602765){:target='_blank'}  
+
+3- Perrier, C., **Allio, R.**, Legeai, F., Gautier, M., Beneluz, F., Marande, W., Theron, A., Rodde, N., Herrera, M., Saune, L. and Parrinello, H. (2024). Transposable element accumulation drives genome size increase in Hylesia metabus (Lepidoptera: Saturniidae), an urticating moth species from South America. <i>bioRxiv</i>, 2024-07. DOI: [10.1101/2024.07.11.602864](https://doi.org/10.1101/2024.07.11.602864){:target='_blank'} 
+
 2- Zelvelder, B., Kergoat, G. J., Benoit, L., Tsuchida, T., Haran, J., & **Allio, R.** (2024). The first example of extreme and independent host plant shifts mediated by parasitic plants in insects. <i>bioRxiv</i>, 2024-04. DOI: [10.1101/2024.04.03.587887](https://doi.org/10.1101/2024.04.03.587887){:target='_blank'}  
 
 1- **Allio, R.**, Teullet, S., Lutgen, D., Magdeleine, A., Koual, R., Tilak, M. K., de Thoisy, B., Emerling, C.A., Lefebure, T., & Delsuc, F. (2022). Comparative transcriptomics reveals divergent paths of chitinase evolution underlying dietary convergence in ant-eating mammals. <i>bioRxiv</i>, 2022-11. DOI: [10.1101/2022.11.29.518312](https://doi.org/10.1101/2022.11.29.518312){:target='_blank'}  
