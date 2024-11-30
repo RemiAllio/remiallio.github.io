@@ -6,6 +6,8 @@ author_profile: true
 ---
 # Peer-reviewed Articles
 ## 2024  
+12- Perrier, C., **Allio, R.**, Legeai, F., Gautier, M., Beneluz, F., Marande, W., Theron, A., Rodde, N., Herrera, M., Saune, L. and Parrinello, H. (2024). Transposable element accumulation drives genome size increase in <i>Hylesia metabus</i> (Lepidoptera: Saturniidae), an urticating moth species from South America. <i>Journal of Heredity</i>, 2024-07. DOI: [10.1093/jhered/esae069](https://doi.org/10.1093/jhered/esae069){:target='_blank'} 
+
 11- **Allio, R.**, Delsuc, F., Belkhir, K., Douzery, E. J., Ranwez, V., & Scornavacca, C. (2024). OrthoMaM v12: a database of curated single-copy ortholog alignments and trees to study mammalian evolutionary genomics. <i>Nucleic Acids Research</i>, 52(D1), D529-D535. DOI: [10.1093/nar/gkad834](https://doi.org/10.1093/nar/gkad834){:target='_blank'}  
 
 ## 2023  
@@ -34,9 +36,7 @@ author_profile: true
 
 
 # Preprints  
-4- Battlay, P., Hendrickson, B. T., Mendez-Reneau, J. I., Santangelo, J. S., Albano, L. J., Wilson, J., Caizergues, A., [9 authors], **Allio, R.**, [35 authors] & Kooyers, N. J. (2024). Structural variants underlie parallel adaptation following global invasion. <i>bioRxiv</i>, 2024-07. DOI: [10.1101/2024.07.09.602765](https://doi.org/10.1101/2024.07.09.602765){:target='_blank'}  
-
-3- Perrier, C., **Allio, R.**, Legeai, F., Gautier, M., Beneluz, F., Marande, W., Theron, A., Rodde, N., Herrera, M., Saune, L. and Parrinello, H. (2024). Transposable element accumulation drives genome size increase in Hylesia metabus (Lepidoptera: Saturniidae), an urticating moth species from South America. <i>bioRxiv</i>, 2024-07. DOI: [10.1101/2024.07.11.602864](https://doi.org/10.1101/2024.07.11.602864){:target='_blank'} 
+3- Battlay, P., Hendrickson, B. T., Mendez-Reneau, J. I., Santangelo, J. S., Albano, L. J., Wilson, J., Caizergues, A., [9 authors], **Allio, R.**, [35 authors] & Kooyers, N. J. (2024). Structural variants underlie parallel adaptation following global invasion. <i>bioRxiv</i>, 2024-07. DOI: [10.1101/2024.07.09.602765](https://doi.org/10.1101/2024.07.09.602765){:target='_blank'}  
 
 2- Zelvelder, B., Kergoat, G. J., Benoit, L., Tsuchida, T., Haran, J., & **Allio, R.** (2024). The first example of extreme and independent host plant shifts mediated by parasitic plants in insects. <i>bioRxiv</i>, 2024-04. DOI: [10.1101/2024.04.03.587887](https://doi.org/10.1101/2024.04.03.587887){:target='_blank'}  
 
