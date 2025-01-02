@@ -6,7 +6,7 @@ author_profile: true
 ---
 # Peer-reviewed Articles
 ## 2024  
-12- Perrier, C., **Allio, R.**, Legeai, F., Gautier, M., Beneluz, F., Marande, W., Theron, A., Rodde, N., Herrera, M., Saune, L. and Parrinello, H. (2024). Transposable element accumulation drives genome size increase in <i>Hylesia metabus</i> (Lepidoptera: Saturniidae), an urticating moth species from South America. <i>Journal of Heredity</i>, 2024-07. DOI: [10.1093/jhered/esae069](https://doi.org/10.1093/jhered/esae069){:target='_blank'} 
+12- Perrier, C., **Allio, R.**, Legeai, F., Gautier, M., Beneluz, F., Marande, W., Theron, A., Rodde, N., Herrera, M., Saune, L. and Parrinello, H. (2024). Transposable element accumulation drives genome size increase in <i>Hylesia metabus</i> (Lepidoptera: Saturniidae), an urticating moth species from South America. <i>Journal of Heredity</i>, esae069. DOI: [10.1093/jhered/esae069](https://doi.org/10.1093/jhered/esae069){:target='_blank'} 
 
 11- **Allio, R.**, Delsuc, F., Belkhir, K., Douzery, E. J., Ranwez, V., & Scornavacca, C. (2024). OrthoMaM v12: a database of curated single-copy ortholog alignments and trees to study mammalian evolutionary genomics. <i>Nucleic Acids Research</i>, 52(D1), D529-D535. DOI: [10.1093/nar/gkad834](https://doi.org/10.1093/nar/gkad834){:target='_blank'}  
 
