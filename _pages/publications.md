@@ -6,7 +6,7 @@ author_profile: true
 ---
 # Peer-reviewed Articles
 ## 2025  
-13- **Allio, R.**\*, Teullet, S.\*, Lutgen, D.\*, Magdeleine, A., Koual, R., Tilak, M. K., de Thoisy, B., Emerling, C.A., Lefebure, T., & Delsuc, F. (2022). Transcriptomic data reveal divergent paths of chitinase evolution underlying dietary convergence in anteaters and pangolins. <i>Genome Biology and Evolution</i>, evaf002. DOI: [10.1093/gbe/evaf002](https://doi.org/10.1093/gbe/evaf002){:target='_blank'}  
+13- **Allio, R.**\*, Teullet, S.\*, Lutgen, D.\*, Magdeleine, A., Koual, R., Tilak, M. K., de Thoisy, B., Emerling, C.A., Lefebure, T., & Delsuc, F. (2025). Transcriptomic data reveal divergent paths of chitinase evolution underlying dietary convergence in anteaters and pangolins. <i>Genome Biology and Evolution</i>, evaf002. DOI: [10.1093/gbe/evaf002](https://doi.org/10.1093/gbe/evaf002){:target='_blank'}  
 
 ## 2024  
 12- Perrier, C., **Allio, R.**, Legeai, F., Gautier, M., Beneluz, F., Marande, W., Theron, A., Rodde, N., Herrera, M., Saune, L. and Parrinello, H. (2024). Transposable element accumulation drives genome size increase in <i>Hylesia metabus</i> (Lepidoptera: Saturniidae), an urticating moth species from South America. <i>Journal of Heredity</i>, esae069. DOI: [10.1093/jhered/esae069](https://doi.org/10.1093/jhered/esae069){:target='_blank'} 
