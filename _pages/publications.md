@@ -8,9 +8,9 @@ author_profile: true
 ## 2025  
 13- **Allio, R.**\*, Teullet, S.\*, Lutgen, D.\*, Magdeleine, A., Koual, R., Tilak, M. K., de Thoisy, B., Emerling, C.A., Lefebure, T., & Delsuc, F. (2025). Transcriptomic data reveal divergent paths of chitinase evolution underlying dietary convergence in anteaters and pangolins. <i>Genome Biology and Evolution</i>, evaf002. DOI: [10.1093/gbe/evaf002](https://doi.org/10.1093/gbe/evaf002){:target='_blank'}  
 
-## 2024  
-12- Perrier, C., **Allio, R.**, Legeai, F., Gautier, M., Beneluz, F., Marande, W., Theron, A., Rodde, N., Herrera, M., Saune, L. and Parrinello, H. (2024). Transposable element accumulation drives genome size increase in <i>Hylesia metabus</i> (Lepidoptera: Saturniidae), an urticating moth species from South America. <i>Journal of Heredity</i>, esae069. DOI: [10.1093/jhered/esae069](https://doi.org/10.1093/jhered/esae069){:target='_blank'} 
+12- Perrier, C., **Allio, R.**, Legeai, F., Gautier, M., Beneluz, F., Marande, W., Theron, A., Rodde, N., Herrera, M., Saune, L. and Parrinello, H. (2024). Transposable element accumulation drives genome size increase in <i>Hylesia metabus</i> (Lepidoptera: Saturniidae), an urticating moth species from South America. <i>Journal of Heredity</i>, esae069. DOI: [10.1093/jhered/esae069](https://doi.org/10.1093/jhered/esae069){:target='_blank'}  
 
+## 2024  
 11- **Allio, R.**, Delsuc, F., Belkhir, K., Douzery, E. J., Ranwez, V., & Scornavacca, C. (2024). OrthoMaM v12: a database of curated single-copy ortholog alignments and trees to study mammalian evolutionary genomics. <i>Nucleic Acids Research</i>, 52(D1), D529-D535. DOI: [10.1093/nar/gkad834](https://doi.org/10.1093/nar/gkad834){:target='_blank'}  
 
 ## 2023  
@@ -25,10 +25,10 @@ author_profile: true
 6- Condamine, F. L., **Allio, R.**, Reboud, E. L., Dupuis, J. R., Toussaint, E. F., Mazet, N., Hu S.-J., Lewis D.S., Kunte K., Cotton A. M., & Sperling, F. A. (2023). A comprehensive phylogeny and revised taxonomy illuminate the origin and diversification of the global radiation of Papilio (Lepidoptera: Papilionidae). <i>Molecular Phylogenetics and Evolution</i>, 183, 107758. DOI: [10.1016/j.ympev.2023.107758](https://doi.org/10.1016/j.ympev.2023.107758){:target='_blank'}  
 
 ## 2021  
-5- **Allio R.**, Tilak M. K., Scornavacca C., Avenant N. L., Corre E., Nabholz B., & Delsuc F. (2021). High-quality carnivore genomes from roadkill samples enable species delimitation in aardwolf and bat-eared fox. <i>eLife</i>, 10, e63167. DOI: [10.7554/eLife.63167](https://doi.org/10.7554/eLife.63167){:target='_blank'}  
+5- **Allio, R.**, Tilak, M. K., Scornavacca, C., Avenant, N. L., Corre, E., Nabholz, B., & Delsuc, F. (2021). High-quality carnivore genomes from roadkill samples enable species delimitation in aardwolf and bat-eared fox. <i>eLife</i>, 10, e63167. DOI: [10.7554/eLife.63167](https://doi.org/10.7554/eLife.63167){:target='_blank'}  
 
 ## 2020  
-4- **Allio R.**, Nabholz B., Wanke S., Chomicki G., Pérez-Escobar O. A., Cotton A. M., Clamens A.- L., Kergoat G. J., Sperling F. A. H. & Condamine F. L. (2020). Genome-wide macroevolutionary signatures of key innovations in butterflies colonizing new host plants. <i>Nature communications</i>, 12(1), 354. DOI: [10.1038/s41467-020-20507-3](https://doi.org/10.1038/s41467-020-20507-3){:target='_blank'}  
+4- **Allio, R.**, Nabholz, B., Wanke, S., Chomicki, G., Pérez-Escobar, O. A., Cotton, A. M., Clamens, A.- L., Kergoat, G. J., Sperling, F. A. H., & Condamine, F. L. (2020). Genome-wide macroevolutionary signatures of key innovations in butterflies colonizing new host plants. <i>Nature communications</i>, 12(1), 354. DOI: [10.1038/s41467-020-20507-3](https://doi.org/10.1038/s41467-020-20507-3){:target='_blank'}  
 
 3- **Allio, R.**, Schomaker‐Bastos, A., Romiguier, J., Prosdocimi, F., Nabholz, B., & Delsuc, F. (2020). MitoFinder: Efficient automated large‐scale extraction of mitogenomic data in target enrichment phylogenomics. <i>Molecular Ecology Resources</i>, 20(4), 892-905. DOI: [10.1111/1755-0998.13160](https://doi.org/10.1111/1755-0998.13160){:target='_blank'}  
 
@@ -39,6 +39,8 @@ author_profile: true
 
 
 # Preprints  
+3- Emerling, C. A., Teullet, S., **Allio, R.**, Gatesy, J., Springer, M. S. & Delsuc, F. (2025). Pseudogenes Document Protracted Parallel Regression of Oral Anatomy in Myrmecophagous Mammals. <i>bioRxiv</i>, 2025.02. DOI: [10.1101/2025.02.21.639456](https://doi.org/10.1101/2025.02.21.639456){:target='_blank'}  
+
 2- Battlay, P., Hendrickson, B. T., Mendez-Reneau, J. I., Santangelo, J. S., Albano, L. J., Wilson, J., Caizergues, A., [9 authors], **Allio, R.**, [35 authors] & Kooyers, N. J. (2024). Structural variants underlie parallel adaptation following global invasion. <i>bioRxiv</i>, 2024-07. DOI: [10.1101/2024.07.09.602765](https://doi.org/10.1101/2024.07.09.602765){:target='_blank'}  
 
 1- Zelvelder, B., Kergoat, G. J., Benoit, L., Tsuchida, T., Haran, J., & **Allio, R.** (2024). The first example of extreme and independent host plant shifts mediated by parasitic plants in insects. <i>bioRxiv</i>, 2024-04. DOI: [10.1101/2024.04.03.587887](https://doi.org/10.1101/2024.04.03.587887){:target='_blank'}  
