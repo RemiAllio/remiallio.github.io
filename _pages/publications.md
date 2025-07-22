@@ -6,6 +6,8 @@ author_profile: true
 ---
 # Peer-reviewed Articles
 ## 2025  
+14- Battlay, P., Hendrickson, B. T., Mendez-Reneau, J. I., Santangelo, J. S., Albano, L. J., Wilson, J., Caizergues, A., [9 authors], **Allio, R.**, [35 authors] & Kooyers, N. J. (2025). Haploblocks contribute to parallel climate adaptation following global invasion of a cosmopolitan plant. <i>Nature Ecology & Evolution</i>, 1-15. DOI: [10.1038/s41559-025-02751-2](https://doi.org/10.1038/s41559-025-02751-2){:target='_blank'}  
+
 13- **Allio, R.**\*, Teullet, S.\*, Lutgen, D.\*, Magdeleine, A., Koual, R., Tilak, M. K., de Thoisy, B., Emerling, C.A., Lefebure, T., & Delsuc, F. (2025). Transcriptomic data reveal divergent paths of chitinase evolution underlying dietary convergence in anteaters and pangolins. <i>Genome Biology and Evolution</i>, evaf002. DOI: [10.1093/gbe/evaf002](https://doi.org/10.1093/gbe/evaf002){:target='_blank'}  
 
 12- Perrier, C., **Allio, R.**, Legeai, F., Gautier, M., Beneluz, F., Marande, W., Theron, A., Rodde, N., Herrera, M., Saune, L. and Parrinello, H. (2024). Transposable element accumulation drives genome size increase in <i>Hylesia metabus</i> (Lepidoptera: Saturniidae), an urticating moth species from South America. <i>Journal of Heredity</i>, esae069. DOI: [10.1093/jhered/esae069](https://doi.org/10.1093/jhered/esae069){:target='_blank'}  
@@ -39,9 +41,7 @@ author_profile: true
 
 
 # Preprints  
-3- Emerling, C. A., Teullet, S., **Allio, R.**, Gatesy, J., Springer, M. S. & Delsuc, F. (2025). Pseudogenes Document Protracted Parallel Regression of Oral Anatomy in Myrmecophagous Mammals. <i>bioRxiv</i>, 2025.02. DOI: [10.1101/2025.02.21.639456](https://doi.org/10.1101/2025.02.21.639456){:target='_blank'}  
-
-2- Battlay, P., Hendrickson, B. T., Mendez-Reneau, J. I., Santangelo, J. S., Albano, L. J., Wilson, J., Caizergues, A., [9 authors], **Allio, R.**, [35 authors] & Kooyers, N. J. (2024). Structural variants underlie parallel adaptation following global invasion. <i>bioRxiv</i>, 2024-07. DOI: [10.1101/2024.07.09.602765](https://doi.org/10.1101/2024.07.09.602765){:target='_blank'}  
+2- Emerling, C. A., Teullet, S., **Allio, R.**, Gatesy, J., Springer, M. S. & Delsuc, F. (2025). Pseudogenes Document Protracted Parallel Regression of Oral Anatomy in Myrmecophagous Mammals. <i>bioRxiv</i>, 2025.02. DOI: [10.1101/2025.02.21.639456](https://doi.org/10.1101/2025.02.21.639456){:target='_blank'}  
 
 1- Zelvelder, B., Kergoat, G. J., Benoit, L., Tsuchida, T., Haran, J., & **Allio, R.** (2024). The first example of extreme and independent host plant shifts mediated by parasitic plants in insects. <i>bioRxiv</i>, 2024-04. DOI: [10.1101/2024.04.03.587887](https://doi.org/10.1101/2024.04.03.587887){:target='_blank'}  
 

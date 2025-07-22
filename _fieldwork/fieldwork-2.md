@@ -23,7 +23,7 @@ Funded by [CEMEB LABEX](https://www.labex-cemeb.org/en){:target='_blank'} and le
 The mission of the exploratory project PolTroN aimed to understand the importance of weevils as tropical forest specific pollinators. The fieldwork took place from October 21 to November 16, 2023 in Gabon, in the presence of (from left to right in the first picture, ©Couvreur):<br/>
 Kevin Mavoungou (Monts de Cristal Eco-guard)<br/>
 Raoul Niangadouma (Botanist, HNG - Libreville, Gabon)<br/>
-**Dr. Rémi Allio** (Entomologist, INRAE, UMR CBGP - Montpellier, France)<br/>
+[Dr. Rémi Allio](https://remiallio.github.io/research/){: .discrete-link} (Entomologist, INRAE, UMR CBGP - Montpellier, France)<br/>
 [Dr. Julien Haran](https://julienharan.wixsite.com/jharan){:target='_blank'}{: .discrete-link} (Entomologists, CIRAD, UMR CBGP - Montpellier, France)<br/>
 [Dr. Thomas Couvreur](http://www.couvreurlab.org){:target='_blank'}{: .discrete-link} (Botanist, IRD, UMR DIADE - Montpellier, France)<br/>
 Laure Benoit (Entomologists, CIRAD, UMR CBGP - Montpellier, France)<br/>

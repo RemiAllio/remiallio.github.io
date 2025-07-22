@@ -29,4 +29,4 @@ _From left to right in the first picture:
 [Dr. Julien Haran](https://julienharan.wixsite.com/jharan){:target='_blank'}{: .discrete-link} ;
 [Dr. Stephan Hansen](https://www.researchgate.net/profile/Steffan-Hansen-2){:target='_blank'}{: .discrete-link} ;
 [Dr. Marion Javal](https://mjaval.wixsite.com/marionjaval){:target='_blank'}{: .discrete-link} ;
-**Dr. Rémi Allio**_
+[Dr. Rémi Allio](https://remiallio.github.io/research/){: .discrete-link}_

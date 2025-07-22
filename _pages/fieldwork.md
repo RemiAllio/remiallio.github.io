@@ -26,6 +26,19 @@ carousels:
     - image: /images/Rémi-Allio-Gabon-4.jpg
     - image: /images/Rémi-Allio-Gabon-5.jpg
     - image: /images/Rémi-Allio-Gabon-6.jpg
+  - images:
+    - image: /images/Rémi-Allio-CostaRica-0.jpg
+    - image: /images/Rémi-Allio-CostaRica-1.jpg
+    - image: /images/Rémi-Allio-CostaRica-2.jpg
+    - image: /images/Rémi-Allio-CostaRica-3.jpg
+    - image: /images/Rémi-Allio-CostaRica-4.jpg
+    - image: /images/Rémi-Allio-CostaRica-5.jpg
+    - image: /images/Rémi-Allio-CostaRica-6.jpg
+    - image: /images/Rémi-Allio-CostaRica-7.jpg
+    - image: /images/Rémi-Allio-CostaRica-8.jpg
+    - image: /images/Rémi-Allio-CostaRica-9.jpg
+    - image: /images/Rémi-Allio-CostaRica-10.jpg
+    - image: /images/Rémi-Allio-CostaRica-11.jpg
 ---
 
 {% include base_path %}
