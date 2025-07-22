@@ -29,6 +29,11 @@
   }
   a.discrete-link2 {
     color: $link-color3;
+    
+    &:hover::after {
+      content: " ↗";
+      cursor: pointer;
+    }
   }
   @include breakpoint($x-large) {
     max-width: $x-large;
