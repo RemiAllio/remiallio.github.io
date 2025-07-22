@@ -31,7 +31,9 @@
     color: $link-color3;
     
     &:hover::after {
-      content: " ↗";
+      content: " \2197";
+      font-size: 0.65em;
+      margin-left: 0.2em;
       cursor: pointer;
     }
   }
