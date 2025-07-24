@@ -24,9 +24,9 @@ The mission of the exploratory project PolTroN aimed to understand the importanc
 Kevin Mavoungou (Monts de Cristal Eco-guard)<br/>
 Raoul Niangadouma (Botanist, HNG - Libreville, Gabon)<br/>
 [Dr. Rémi Allio](https://remiallio.github.io/research/){: .discrete-link} (Entomologist, INRAE, UMR CBGP - Montpellier, France)<br/>
-[Dr. Julien Haran](https://julienharan.wixsite.com/jharan){:target='_blank'}{: .discrete-link} (Entomologists, CIRAD, UMR CBGP - Montpellier, France)<br/>
+[Dr. Julien Haran](https://julienharan.wixsite.com/jharan){:target='_blank'}{: .discrete-link} (Entomologist, CIRAD, UMR CBGP - Montpellier, France)<br/>
 [Dr. Thomas Couvreur](http://www.couvreurlab.org){:target='_blank'}{: .discrete-link} (Botanist, IRD, UMR DIADE - Montpellier, France)<br/>
-Laure Benoit (Entomologists, CIRAD, UMR CBGP - Montpellier, France)<br/>
+Laure Benoit (Entomologist, CIRAD, UMR CBGP - Montpellier, France)<br/>
 Djimi Petit-Jean (IRD driver)<br/>
 
 
