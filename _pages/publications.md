@@ -6,6 +6,8 @@ author_profile: true
 ---
 # Peer-reviewed Articles
 ## 2025  
+15- Juvé, Y., Lutrat, C., Ha, A., Weyna, A., Lauroua, E., Afonso Silva, A. C., Roux, C., Schifani, E., Galkowski, C., Lebas, C., **Allio, R.**, Stoyanov, I., Galtier, N., Schlick-Steiner, B. C., Steiner, F. M., Baas, D., Kaufmann, B., & Romiguier, J. (2025). One mother for two species via obligate cross-species cloning in ants. <i>Nature</i>, 646, 372–377. DOI: [10.1038/s41586-025-09425-w](https://doi.org/10.1038/s41586-025-09425-w){:target='_blank'}  
+
 14- Battlay, P., Hendrickson, B. T., Mendez-Reneau, J. I., Santangelo, J. S., Albano, L. J., Wilson, J., Caizergues, A., [9 authors], **Allio, R.**, [35 authors] & Kooyers, N. J. (2025). Haploblocks contribute to parallel climate adaptation following global invasion of a cosmopolitan plant. <i>Nature Ecology & Evolution</i>, 1-15. DOI: [10.1038/s41559-025-02751-2](https://doi.org/10.1038/s41559-025-02751-2){:target='_blank'}  
 
 13- **Allio, R.**\*, Teullet, S.\*, Lutgen, D.\*, Magdeleine, A., Koual, R., Tilak, M. K., de Thoisy, B., Emerling, C.A., Lefebure, T., & Delsuc, F. (2025). Transcriptomic data reveal divergent paths of chitinase evolution underlying dietary convergence in anteaters and pangolins. <i>Genome Biology and Evolution</i>, evaf002. DOI: [10.1093/gbe/evaf002](https://doi.org/10.1093/gbe/evaf002){:target='_blank'}  
