@@ -4,7 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-# Peer-reviewed Articles
+# Peer-reviewed Articles  
+## 2026  
+17- Haran, J., Zelvelder, B., Boupoya, C. A., Couvreur, T. L. P., Niangadouma, R., Benoit, L., Kergoat, G. J., Buatois, B., Dufäy, M., Kojima, H., & **Allio, R.** (2026). New species of <i>Endaeus</i> Schoenherr, 1826 (Curculionidae: Curculioninae: Ochyromerini) associated with Annonaceae and Clusiaceae. <i>European Journal of Taxonomy</i>, 1039(1), 165–198. DOI: [10.5852/ejt.2026.1039.3185](https://doi.org/10.5852/ejt.2026.1039.3185){:target='_blank'}  
+  
+16- Emerling, C. A., Teullet, S., **Allio, R.**, Gatesy, J., Springer, M. S. & Delsuc, F. (2026). Pseudogenes Document Protracted Parallel Regression of Oral Anatomy in Myrmecophagous Mammals. <i>Molecular Biology and Evolution</i>, msag009. DOI: [10.1093/molbev/msag009](https://doi.org/10.1093/molbev/msag009){:target='_blank'}  
+  
 ## 2025  
 15- Juvé, Y., Lutrat, C., Ha, A., Weyna, A., Lauroua, E., Afonso Silva, A. C., Roux, C., Schifani, E., Galkowski, C., Lebas, C., **Allio, R.**, Stoyanov, I., Galtier, N., Schlick-Steiner, B. C., Steiner, F. M., Baas, D., Kaufmann, B., & Romiguier, J. (2025). One mother for two species via obligate cross-species cloning in ants. <i>Nature</i>, 646, 372–377. DOI: [10.1038/s41586-025-09425-w](https://doi.org/10.1038/s41586-025-09425-w){:target='_blank'}  
 
@@ -12,7 +17,7 @@ author_profile: true
 
 13- **Allio, R.**\*, Teullet, S.\*, Lutgen, D.\*, Magdeleine, A., Koual, R., Tilak, M. K., de Thoisy, B., Emerling, C.A., Lefebure, T., & Delsuc, F. (2025). Transcriptomic data reveal divergent paths of chitinase evolution underlying dietary convergence in anteaters and pangolins. <i>Genome Biology and Evolution</i>, evaf002. DOI: [10.1093/gbe/evaf002](https://doi.org/10.1093/gbe/evaf002){:target='_blank'}  
 
-12- Perrier, C., **Allio, R.**, Legeai, F., Gautier, M., Beneluz, F., Marande, W., Theron, A., Rodde, N., Herrera, M., Saune, L. and Parrinello, H. (2024). Transposable element accumulation drives genome size increase in <i>Hylesia metabus</i> (Lepidoptera: Saturniidae), an urticating moth species from South America. <i>Journal of Heredity</i>, esae069. DOI: [10.1093/jhered/esae069](https://doi.org/10.1093/jhered/esae069){:target='_blank'}  
+12- Perrier, C., **Allio, R.**, Legeai, F., Gautier, M., Beneluz, F., Marande, W., Theron, A., Rodde, N., Herrera, M., Saune, L. & Parrinello, H. (2024). Transposable element accumulation drives genome size increase in <i>Hylesia metabus</i> (Lepidoptera: Saturniidae), an urticating moth species from South America. <i>Journal of Heredity</i>, esae069. DOI: [10.1093/jhered/esae069](https://doi.org/10.1093/jhered/esae069){:target='_blank'}  
 
 ## 2024  
 11- **Allio, R.**, Delsuc, F., Belkhir, K., Douzery, E. J., Ranwez, V., & Scornavacca, C. (2024). OrthoMaM v12: a database of curated single-copy ortholog alignments and trees to study mammalian evolutionary genomics. <i>Nucleic Acids Research</i>, 52(D1), D529-D535. DOI: [10.1093/nar/gkad834](https://doi.org/10.1093/nar/gkad834){:target='_blank'}  
@@ -43,7 +48,5 @@ author_profile: true
 
 
 # Preprints  
-2- Emerling, C. A., Teullet, S., **Allio, R.**, Gatesy, J., Springer, M. S. & Delsuc, F. (2025). Pseudogenes Document Protracted Parallel Regression of Oral Anatomy in Myrmecophagous Mammals. <i>bioRxiv</i>, 2025.02. DOI: [10.1101/2025.02.21.639456](https://doi.org/10.1101/2025.02.21.639456){:target='_blank'}  
-
 1- Zelvelder, B., Kergoat, G. J., Benoit, L., Tsuchida, T., Haran, J., & **Allio, R.** (2024). The first example of extreme and independent host plant shifts mediated by parasitic plants in insects. <i>bioRxiv</i>, 2024-04. DOI: [10.1101/2024.04.03.587887](https://doi.org/10.1101/2024.04.03.587887){:target='_blank'}  
 
