@@ -39,39 +39,3 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-
-/* === CUSTOM CAROUSEL === */
-
-.carousel {
-  position: relative;
-  max-width: 100%;
-}
-
-.carousel-item {
-  display: none;
-  text-align: center;
-}
-
-.carousel-item img {
-  max-width: 100%;
-  height: auto;
-}
-
-.carousel-item:target {
-  display: block;
-}
-
-/* Affiche la première image si aucune ancre n'est sélectionnée */
-.carousel-item:first-child {
-  display: block;
-}
-
-.carousel-nav {
-  margin-top: 10px;
-}
-
-.carousel-nav a {
-  font-size: 2rem;
-  text-decoration: none;
-  padding: 0 10px;
-}
