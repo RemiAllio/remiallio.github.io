@@ -39,6 +39,28 @@ carousels:
     - image: /images/Rémi-Allio-CostaRica-9.jpg
     - image: /images/Rémi-Allio-CostaRica-10.jpg
     - image: /images/Rémi-Allio-CostaRica-11.jpg
+  - images:
+    - image: /images/Rémi-Allio-Guyane2025-01.jpg
+    - image: /images/Rémi-Allio-Guyane2025-02.jpg
+    - image: /images/Rémi-Allio-Guyane2025-03.jpg
+    - image: /images/Rémi-Allio-Guyane2025-04.jpg
+    - image: /images/Rémi-Allio-Guyane2025-05.jpg
+    - image: /images/Rémi-Allio-Guyane2025-06.jpg
+    - image: /images/Rémi-Allio-Guyane2025-07.jpg
+    - image: /images/Rémi-Allio-Guyane2025-08.jpg
+    - image: /images/Rémi-Allio-Guyane2025-09.jpg
+    - image: /images/Rémi-Allio-Guyane2025-10.jpg
+    - image: /images/Rémi-Allio-Guyane2025-11.jpg
+    - image: /images/Rémi-Allio-Guyane2025-12.jpg
+    - image: /images/Rémi-Allio-Guyane2025-13.jpg
+    - image: /images/Rémi-Allio-Guyane2025-14.jpg
+    - image: /images/Rémi-Allio-Guyane2025-15.jpg
+    - image: /images/Rémi-Allio-Guyane2025-16.jpg
+    - image: /images/Rémi-Allio-Guyane2025-17.jpg
+    - image: /images/Rémi-Allio-Guyane2025-18.jpg
+    - image: /images/Rémi-Allio-Guyane2025-19.jpg
+    - image: /images/Rémi-Allio-Guyane2025-20.jpg
+    - image: /images/Rémi-Allio-Guyane2025-21.jpg
 ---
 
 {% include base_path %}
