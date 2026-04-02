@@ -6,6 +6,8 @@ author_profile: true
 ---
 # Peer-reviewed Articles  
 ## 2026  
+18- Zelvelder, B., Kergoat, G. J., Benoit, L., Tsuchida, T., Haran, J., & **Allio, R.** (2026). TCan ecological interactions drive evolutionary outcomes? A first evidence of major host plant shifts involving parasitic plants in insects. <i>Proceedings of the Royal Society B</i>, 293: 20260100. DOI: [10.1098/rspb.2026.0100](https://doi.org/10.1098/rspb.2026.0100){:target='_blank'}  
+
 17- Haran, J., Zelvelder, B., Boupoya, C. A., Couvreur, T. L. P., Niangadouma, R., Benoit, L., Kergoat, G. J., Buatois, B., Dufäy, M., Kojima, H., & **Allio, R.** (2026). New species of <i>Endaeus</i> Schoenherr, 1826 (Curculionidae: Curculioninae: Ochyromerini) associated with Annonaceae and Clusiaceae. <i>European Journal of Taxonomy</i>, 1039(1), 165–198. DOI: [10.5852/ejt.2026.1039.3185](https://doi.org/10.5852/ejt.2026.1039.3185){:target='_blank'}  
   
 16- Emerling, C. A., Teullet, S., **Allio, R.**, Gatesy, J., Springer, M. S. & Delsuc, F. (2026). Pseudogenes Document Protracted Parallel Regression of Oral Anatomy in Myrmecophagous Mammals. <i>Molecular Biology and Evolution</i>, msag009. DOI: [10.1093/molbev/msag009](https://doi.org/10.1093/molbev/msag009){:target='_blank'}  
@@ -48,5 +50,5 @@ author_profile: true
 
 
 # Preprints  
-1- Zelvelder, B., Kergoat, G. J., Benoit, L., Tsuchida, T., Haran, J., & **Allio, R.** (2024). The first example of extreme and independent host plant shifts mediated by parasitic plants in insects. <i>bioRxiv</i>, 2024-04. DOI: [10.1101/2024.04.03.587887](https://doi.org/10.1101/2024.04.03.587887){:target='_blank'}  
+
 
