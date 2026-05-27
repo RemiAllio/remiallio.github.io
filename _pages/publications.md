@@ -50,5 +50,5 @@ author_profile: true
 
 
 # Preprints  
-
+1- Zelvelder, B., Benoit, L., Loiseau, A., Haran, J., & **Allio, R.** (2026). A new method based on genome alignments provides a highly resolutive target enrichment set for weevils (Coleoptera, Curculionoidea). <i>bioRxiv</1>, 2026-05. DOI: [10.64898/2026.05.09.724036](https://doi.org/10.64898/2026.05.09.724036){:target='_blank'}
 
