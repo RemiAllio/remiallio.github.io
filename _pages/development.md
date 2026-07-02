@@ -17,6 +17,16 @@ read sequencing data.
   <a href="https://github.com/RemiAllio/MitoFinder" target="_blank" ><img src="/images/Rémi-Allio-MitoFinder.png" alt="MitoFinder_logo.png" width="500"></a>
 </p>
 
+### [GABBI](https://github.com/bjzelvelder/GABBI){:target='_blank'}{: .discrete-link}  
+_Zelvelder, B., Benoit, L., Loiseau, A., Haran, J., & **Allio, R.** (2026). A new method based on genome alignments provides a highly resolutive target enrichment set for weevils (Coleoptera, Curculionoidea). <i>bioRxiv</i>, 2026-05. DOI: [10.64898/2026.05.09.724036](https://doi.org/10.64898/2026.05.09.724036){:target='_blank'}_  
+
+[GABBI](https://github.com/bjzelvelder/GABBI){:target='_blank'}{: .discrete-link} is a fully automated pipeline for designing target capture baits (or probes) from whole-genome alignments. Probe sets derived from GABBI are expected to target more variable loci than those produced by conventional probe design methods that rely on a single reference genome for mapping reads, thereby providing more sensitive and phylogenetically informative data.  
+
+<p align="center">
+  <a href="https://github.com/bjzelvelder/GABBI" target="_blank" ><img src="/images/Remi-Allio-Gabbi.png" alt="Gabbi_logo.png" width="500"></a>
+</p>
+
+
 ### [PhylteR](https://github.com/damiendevienne/phylter){:target='_blank'}{: .discrete-link}
 _Comte, A., Tricou, T., Tannier, E., Joseph, J., Siberchicot, A., Penel, S., **Allio, R.**, Delsuc, F., Dray, S., & de Vienne, D. M. (2023). PhylteR: efficient identification of outlier sequences in phylogenomic datasets. <i>Molecular Biology and Evolution</i>, Volume 40, Issue 11, November 2023, msad234. DOI: [10.1093/molbev/msad234](https://doi.org/10.1093/molbev/msad234){:target='_blank'}_  
 
